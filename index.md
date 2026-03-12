@@ -112,21 +112,33 @@ sections:
 
   - type: contact.html
     section_id: pc_members
-    title: Program Committee Members
-    text: >-
-      TBD
+    title: Program Committee
+    text: 
+      <table div class="table"><tbody>
+      <tr><td>Medina Andresel     (Austrian Institute of Technology, Austria) </td></tr>        
+      <tr><td>Adrita Barua        (Kansas State University, USA)              </td></tr>                  
+      <tr><td>Antrea Christou     (Wright State University, USA)              </td></tr>    
+      <tr><td>Fariz Darari        (University of Indonesia, Indonesia)        </td></tr>    
+      <tr><td>Andreea Iana        (Uni Mannheim, Germany)                     </td></tr>    
+      <tr><td>Chris Davis Jaldi   (Wright State University, USA)              </td></tr>        
+      <tr><td>Jan-Cristoph Kalo   (University of Amsterdam, The Netherlands)  </td></tr>    
+      <tr><td>Majlinda Llugiqi    (WU, Austria)                               </td></tr>    
+      <tr><td>Rita T. Sousa       (University of Mannheim, Germany)           </td></tr>        
+      <tr><td>Lionel Tailhardat   (Orange, France)                            </td></tr>        
+      <tr><td>Marta Sabou         (WU, Austria)                               </td></tr>       
+      </tbody></table>
     actions:
-    - title: +1 (202) 555-014
-      icon: bi-telephone-fill
-    - title: E-Mail
-      icon: bi-envelope-fill
-      url: mailto:contact@yourwebsite.com
-    - title: Twitter
-      icon: bi-twitter
-      url: '#'
-    - title: Facebook
-      icon: bi-facebook
-      url: '#'
+    # - title: +1 (202) 555-014
+    #   icon: bi-telephone-fill
+    # - title: E-Mail
+    #   icon: bi-envelope-fill
+    #   url: mailto:contact@yourwebsite.com
+    # - title: Twitter
+    #   icon: bi-twitter
+    #   url: '#'
+    # - title: Facebook
+    #   icon: bi-facebook
+    #   url: '#'
 
   - type: timeline.html
     section_id: past_editions
@@ -134,17 +146,17 @@ sections:
     background_style: bg-dark text-primary
     last_image: assets/img/timeline-end.png
     actions:
-      - image: assets/img/portfolio/thumbnails/1.jpg
-        title: >+
-          KG-NeSy 2024
-        url: https://airov.at/2024/workshop/KG-NeSy 
-        text: >-
-          Co-located with The First Austrian Symposium on AI, Robotics, and Vision (Innsbruck, Austria)
       - image: assets/img/portfolio/thumbnails/2.jpg
         title: >+
           KG-NeSy 2025
         url: https://sites.google.com/view/kgnesy2025
         text: >- 
-          Co-located with The 21st International Conference on Semantic Systems - SEMANTiCS 2025 (Vienna, Austria)
+          Co-located with The 21st International Conference on Semantic Systems <br/> SEMANTiCS 2025 (Vienna, Austria)
+      - image: assets/img/portfolio/thumbnails/1.jpg
+        title: >+
+          KG-NeSy 2024
+        url: https://airov.at/2024/workshop/KG-NeSy 
+        text: >-
+          Co-located with The First Austrian Symposium on AI, Robotics, and Vision <br/> AIROV 2024 (Innsbruck, Austria)
 
 ---
