@@ -1,12 +1,12 @@
 ---
 layout: home
 header:
-  title: YOUR FAVORITE SOURCE OF FREE BOOTSTRAP THEMES
+  title: "KG-NeSy 2026: The Third International Workshop on Knowledge Graphs and Neurosymbolic AI"
   text: >
-    Start Bootstrap can help you build better websites using the Bootstrap
-    framework! Just download a theme and start customizing, no strings attached!
+    Co-located with the ISWC 2026
+    Bari, Italy - October 25 or 26, 2026
   action: # action button is optional
-    label: Find Out More
+    label: See Call for Papers
     url: '#about'
 
 
@@ -14,136 +14,107 @@ sections:
   - type: call-to-action.html
     section_id: about
     background_style: bg-primary
-    title: We've got what you need!
-    text: Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!
+    title: KG-NeSy Call for Papers
+    text: > 
+      The Knowledge Graphs and Neurosymbolic AI Systems (KG-NeSy) workshop focuses on the rapidly growing combination between KGs and Neurosymbolic AI, highlighting how these two research areas can mutually enhance each other. In particular, the workshop addresses the following complementary strands of research. 
+      
+      >>
+      
+      #### KGs within Neurosymbolic (NeSy) AI systems 
+      
+      KGs within Neurosymbolic (NeSy) AI systems, either as (a) deeply integrated components supporting hybrid reasoning, as (b) auxiliary structures improving explainability, interpretability, robustness, generalization, and transferability of deep learning models, or as (c) structured inputs enabling neurosymbolic prediction and inference. This direction is motivated by the observation that while deep learning excels at processing raw data, it often struggles with planning and rich deductive reasoning—capabilities naturally provided by
+      symbolic knowledge representations. The topic of interests includes: 
+
+        1. Knowledge Graphs for trustworthy Neurosymbolic AI systems.  
+        2. Symbolic methods for Explainable AI.  
+        3. Hybrid reasoning combining Deep Learning with Semantic Web.  
+        4. KG-based approaches for improving fairness/bias of ML algorithms/systems.  
+      
+      >>
+       
+      #### NeSy AI to support KG engineering  
+
+      Neurosymbolic AI approaches can assist within Knowledge Graphs engineering lifecycle, e.g., within ontology construction, entity and relation extraction, knowledge integration and mapping, completion through logical reasoning or validation, refinement via learning-based methods, and continuous evaluation and maintenance under evolving requirements and datasets. Even when KGs are not explicitly embedded inside Neurosymbolic AI approaches, these approaches can improve methods and tools for knowledge engineering, paving the way for the next generation of Knowledge Graphs development practices. The topic of interests includes: 
+      
+        1. Neurosymbolic AI methods/systems for ontology learning, construction, or population. 
+        2. Neurosymbolic AI methods/systems for knowledge extraction, integration, and completion, evolution/maintenance, and evaluation.  
+      
+      >>
+
+      #### KG-based approaches for understanding and systematizing NeSy AI
+      
+      KG-based approaches for understanding and systematizing NeSy AI, e.g., through design patterns, classifications, conceptual frameworks, and boxology representations. These works are essential for identifying gaps in current approaches, consolidating fragmented research landscapes, and opening up new opportunities for future developments. The topic of interests includes: 
+
+        1. Meta-models capturing symbolic-subsymbolic interplay.  
+        2. Formal representations, boxology, design patterns, and taxonomies of Neurosymbolic architectures. 
+        3. Metrics and datasets to evaluate Neurosymbolic AI.    
+
+      >> 
+
+      #### Application of KGs and NeSy AI
+      
+      Application of KGs and NeSy AI, which includes, but not limited to:
+
+        1. Applications of Neurosymbolic AI in domains such as medicine, biology, manufacturing, IoT, security, robotics, education, and others.
+        2. Certification and auditing of (Neurosymbolic) AI systems using Knowledge Graphs and Neurosymbolic AI.
+        3. The interplay between Knowledge Graphs, Neurosymbolic AI systems, and human intelligence.
+
     actions:
-      - title: Get Started!
-        url: '#page-top'
+      - title: Submit your Paper!
+        url: https://easychair.org/conferences2/info?a=36250136
         class: btn-light
 
   - type: services.html
-    section_id: services
+    section_id: timeline
     #background_style: bg-info
-    title: At Your Service
+    title: Important Dates
     services:
-      - title: Sturdy Templates
-        text: Our templates are updated regularly so they don't break.
+      - title: Paper Submission <br/> (July 15th, 2026)
+        text: Submit your paper.
         icon: bi-gem text-info
-        url: https://startbootstrap.com/
-      - title: Ready to Ship
-        text: You can use this theme as is, or you can make changes!
+        url: https://easychair.org/conferences2/info?a=36250136
+      - title: Notifications <br/> (Aug 15th, 2026)
+        text: The notification and reviews from our Program Committee will be available.
         icon: bi-rocket-takeoff
-      - title: Up to Date
-        text: We update dependencies to keep things fresh.
+      - title: Camera-ready Submission <br/> (Aug 31st, 2026)
+        text: Time to have your paper ready for being published. All the accepted paper will be published in the proceedings.
         icon: bi-activity
-      - title: Made with Love
-        text: You have to make your websites with love these days!
+      - title: Event <br/> (Oct 25th or 26th, 2026)
+        text: Keynote, papers presentations, and discussion. If your contribution is accepted, it needs to be presented by one of the authors at the event.
         icon: bi-heart-fill
-      - title: Other 1
-        text: Some not-so long text here.
-        icon: bi-emoji-heart-eyes
-      - title: Other 2
-        text: Some not-so long text here.
-        icon: bi-emoji-sunglasses-fill
 
-  - type: portfolio.html
-    # this section has always ID 'portfolio'
-    #section_id: portfolio
-    #background_style: bg-dark
-    projects:
-      - title: Project 1
-        text: This is a very short project description.
-        # the images are located in:
-        # img/portfolio/fullsize
-        # img/portfolio/thumbnails
-        icon: 1.jpg
-        url: '#'
-      - title: Project 2
-        text: This is a very short project description.
-        icon: 2.jpg
-        url: '#'
-      - title: Project 3
-        text: This is a very short project description.
-        icon: 3.jpg
-        url: '#'
-      - title: Project 4
-        text: This is a very short project description.
-        icon: 4.jpg
-        url: '#'
-      - title: Project 5
-        text: This is a very short project description.
-        icon: 5.jpg
-        url: '#'
-      - title: Project 6
-        text: This is a very short project description.
-        icon: 6.jpg
-        url: '#'
-
-  - type: aside.html
-    section_id: aside
-    title: Free Download at Start Bootstrap!
-    actions:
-      - title: Download Now!
-        url: https://startbootstrap.com/themes/creative/
-        class: btn-light
 
   - type: members.html
     section_id: members
-    title: Our Crew!
+    title: Workshop Organizers
     background_style: bg-info text-white
     members:
-      - title: Christina M. Aponte
-        text: Singer and Songwriter
-        image: assets/img/members/person1.jpg
-        url: '#'
-      - title: Gary D. Stevens
-        text: Bass guitar.
-        image: assets/img/members/person2.jpg
-        url: '#'
-      - title: Devon J. Fletcher
-        text: Lead guitar.
-        image: assets/img/members/person3.jpg
-        url: '#'
-      - title: Todd E. Anderson
-        text: Drums, percussion.
-        image: assets/img/members/person5.jpg
-        url: '#'
-      - title: Daniel T. Riley
-        text: Musician, songwriter, producer.
-        image: assets/img/members/person6.jpg
-        url: '#'
-      - title: Ella P. Walter
-        text: PR.
-        image: assets/img/members/person7.jpg
-        url: '#'
-
-  - type: timeline.html
-    section_id: timeline
-    title: Major Achievements!
-    background_style: bg-dark text-primary
-    last_image: assets/img/timeline-end.png
-    actions:
-      - image: assets/img/portfolio/thumbnails/1.jpg
-        title: >+
-          2017-2018
-          **Humble Beginnings**
-        text: >-
-          We begun with small group of people willing to work hard and make our
-          teaching skills worth , in front of all others!
-      - image: assets/img/portfolio/thumbnails/2.jpg
-        title: >+
-          November 2019
-          An Coaching started
-        text: >-
-          We started to gather like minded people and started our stategies
-          and future plans to them. As a result , interested people joined us!
+      - title: Shqiponja Ahmetaj
+        text: TU Wien, Austria
+        image: assets/img/members/shqiponja-1.jpg
+        url: 'https://informatics.tuwien.ac.at/people/shqiponja-ahmetaj'
+      - title: Fajar J. Ekaputra
+        text: WU Vienna, Austria
+        image: assets/img/members/headshot_lowres.jpg
+        url: 'https://www.wu.ac.at/en/dpkm/team/fajar-juang-ekaputra'
+      - title: Andreas Ekelhart
+        text: Uni Wien, Austria
+        image: assets/img/members/andreas.jpeg
+        url: 'https://cs.univie.ac.at/Andreas.Ekelhart/'
+      - title: Sebastian Neumaier
+        text: USTP, Austria
+        image: assets/img/members/sebastian.jpeg
+        url: 'https://isf.fhstp.ac.at/team/sebastian-neumaier'
+      - title: Cogan Shimizu
+        text: Wright State University, USA
+        image: assets/img/members/cogan.jpg
+        url: 'https://cogan-shimizu.github.io/'
 
   - type: contact.html
-    section_id: contacts
-    title: Let's Get In Touch!
+    section_id: pc_members
+    title: Program Committee Members
     text: >-
-      Ready to start your next project with us? Give us a call or send us an email
-      and we will get back to you as soon as possible!
+      TBD
     actions:
     - title: +1 (202) 555-014
       icon: bi-telephone-fill
@@ -156,5 +127,22 @@ sections:
     - title: Facebook
       icon: bi-facebook
       url: '#'
+
+  - type: timeline.html
+    section_id: past_editions
+    title: Past Editions
+    background_style: bg-dark text-primary
+    last_image: assets/img/timeline-end.png
+    actions:
+      - image: assets/img/portfolio/thumbnails/1.jpg
+        title: >+
+          First KG-NeSy 2024
+        text: >-
+          Co-located with The First Austrian Symposium on AI, Robotics, and Vision (Innsbruck, Austria)
+      - image: assets/img/portfolio/thumbnails/2.jpg
+        title: >+
+          First KG-NeSy 2025
+        text: >- 
+          Co-located with The 21st International Conference on Semantic Systems - SEMANTiCS 2025 (Vienna, Austria)
 
 ---
