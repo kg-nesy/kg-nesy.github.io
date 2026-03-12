@@ -136,12 +136,14 @@ sections:
     actions:
       - image: assets/img/portfolio/thumbnails/1.jpg
         title: >+
-          First KG-NeSy 2024
+          KG-NeSy 2024
+        url: https://airov.at/2024/workshop/KG-NeSy 
         text: >-
           Co-located with The First Austrian Symposium on AI, Robotics, and Vision (Innsbruck, Austria)
       - image: assets/img/portfolio/thumbnails/2.jpg
         title: >+
-          First KG-NeSy 2025
+          KG-NeSy 2025
+        url: https://sites.google.com/view/kgnesy2025
         text: >- 
           Co-located with The 21st International Conference on Semantic Systems - SEMANTiCS 2025 (Vienna, Austria)
 
