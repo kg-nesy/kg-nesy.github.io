@@ -16,13 +16,17 @@ sections:
     background_style: bg-dark text-primary
     title: KG-NeSy Call for Papers
     text: > 
-      The Knowledge Graphs and Neurosymbolic AI Systems (KG-NeSy) workshop focuses on the rapidly growing combination between KGs and Neurosymbolic AI, highlighting how these two research areas can mutually enhance each other. In particular, the workshop addresses the following complementary strands of research. 
+      Knowledge Graphs (KG) provide structured and machine-interpretable knowledge that supports integration, reasoning, and explainability. Their combination with machine learning has become increasingly important within Neurosymbolic AI, which integrates neural and symbolic approaches to combine data-driven learning with knowledge representation and reasoning. 
+
+      >>
+
+      **The Knowledge Graphs and Neurosymbolic AI Systems (KG-NeSy) workshop** focuses on this rapidly growing combination between KGs and Neurosymbolic AI, highlighting how these two research areas can mutually enhance each other. In particular, the workshop addresses the following complementary strands of research. 
       
       >>
       
-      ##### <u>KGs within Neurosymbolic (NeSy) AI systems</u>
+      #### KGs within Neurosymbolic (NeSy) AI systems
       
-      KGs within Neurosymbolic (NeSy) AI systems, either as (a) deeply integrated components supporting hybrid reasoning, as (b) auxiliary structures improving explainability, interpretability, robustness, generalization, and transferability of deep learning models, or as (c) structured inputs enabling neurosymbolic prediction and inference. This direction is motivated by the observation that while deep learning excels at processing raw data, it often struggles with planning and rich deductive reasoning—capabilities naturally provided by
+      KGs within NeSy AI systems, either as (a) deeply integrated components supporting hybrid reasoning, as (b) auxiliary structures improving explainability, interpretability, robustness, generalization, and transferability of deep learning models, or as (c) structured inputs enabling neurosymbolic prediction and inference. This direction is motivated by the observation that while deep learning excels at processing raw data, it often struggles with planning and rich deductive reasoning—capabilities naturally provided by
       symbolic knowledge representations. The topic of interests includes: 
 
         1. Knowledge Graphs for trustworthy Neurosymbolic AI systems.  
@@ -32,7 +36,7 @@ sections:
       
       >>
        
-      ##### <u>NeSy AI to support KG engineering</u>  
+      #### NeSy AI to support KG engineering
 
       Neurosymbolic AI approaches can assist within Knowledge Graphs engineering lifecycle, e.g., within ontology construction, entity and relation extraction, knowledge integration and mapping, completion through logical reasoning or validation, refinement via learning-based methods, and continuous evaluation and maintenance under evolving requirements and datasets. Even when KGs are not explicitly embedded inside Neurosymbolic AI approaches, these approaches can improve methods and tools for knowledge engineering, paving the way for the next generation of Knowledge Graphs development practices. The topic of interests includes: 
       
@@ -41,7 +45,7 @@ sections:
       
       >>
 
-      ##### <u>KG-based approaches for understanding and systematizing NeSy AI</u>
+      #### KG-based approaches for understanding and systematizing NeSy AI
       
       KG-based approaches for understanding and systematizing NeSy AI, e.g., through design patterns, classifications, conceptual frameworks, and boxology representations. These works are essential for identifying gaps in current approaches, consolidating fragmented research landscapes, and opening up new opportunities for future developments. The topic of interests includes: 
 
@@ -51,7 +55,7 @@ sections:
 
       >> 
 
-      ##### <u>Application of KGs and NeSy AI</u>
+      #### Application of KGs and NeSy AI
       
       Application of KGs and NeSy AI, which includes, but not limited to:
 
@@ -71,17 +75,17 @@ sections:
     services:
       - title: Paper Submission <br/> (July 15th, 2026)
         text: Submit your paper.
-        icon: bi-gem text-info
+        icon: bi-pencil-fill
         url: https://easychair.org/conferences2/info?a=36250136
       - title: Notifications <br/> (Aug 15th, 2026)
         text: The notification and reviews from our Program Committee will be available.
         icon: bi-rocket-takeoff
       - title: Camera-ready Submission <br/> (Aug 31st, 2026)
         text: Time to have your paper ready for being published. All the accepted paper will be published in the proceedings.
-        icon: bi-activity
+        icon: bi-camera-fill
       - title: Event <br/> (Oct 25th or 26th, 2026)
         text: Keynote, papers presentations, and discussion! 
-        icon: bi-heart-fill
+        icon: bi-people-fill
 
 
   - type: members.html
