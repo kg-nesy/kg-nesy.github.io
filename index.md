@@ -183,13 +183,13 @@ sections:
     background_style: bg-dark text-primary
     last_image: assets/img/timeline-end.png
     actions:
-      - image: assets/img/portfolio/thumbnails/2.jpg
+      - image: assets/img/portfolio/thumbnails/semantics-25.jpg
         title: >+
           KG-NeSy 2025
         url: https://sites.google.com/view/kgnesy2025
         text: >- 
           Co-located with The 21st International Conference on Semantic Systems <br/> SEMANTiCS 2025 (Vienna, Austria)
-      - image: assets/img/portfolio/thumbnails/1.jpg
+      - image: assets/img/portfolio/thumbnails/airov-24.jpg
         title: >+
           KG-NeSy 2024
         url: https://airov.at/2024/workshop/KG-NeSy 
