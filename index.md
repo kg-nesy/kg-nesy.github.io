@@ -81,7 +81,7 @@ sections:
       >>
 
       Please submit your contributions electronically in PDF format via the EasyChair system through the submission link.
-      
+
       >>
 
       Accepted contributions will be presented at the workshop and included in the CEUR workshop proceedings. At least one author of each article is expected to register for the workshop and attend to present their contribution. For any enquiries, please send an email to: kgnesy2026 [at] easychair [dot] org. 
@@ -90,13 +90,8 @@ sections:
 
     actions:
       - title: Submit your Paper!
-        url: https://easychair.org/conferences2/info?a=36250136
+        url: https://easychair.org/conferences/?conf=kgnesy2026
         class: btn-light
-
-    # actions:
-    #   - title: Submit your Paper!
-    #     url: https://easychair.org/conferences2/info?a=36250136
-    #     class: btn-light
 
 # sections:
   # - type: submission.html
