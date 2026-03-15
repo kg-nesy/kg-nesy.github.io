@@ -72,7 +72,7 @@ sections:
 
       >>
 
-      All submissions must be written in English and adhere to the CEUR-ART style (one column). Please use the following Overleaf template.
+      All submissions must be written in English and adhere to the CEUR-ART style (one column).
 
       >>
 
@@ -80,8 +80,8 @@ sections:
 
       >>
 
-      Please submit your contributions electronically in PDF format via the EasyChair system.
-
+      Please submit your contributions electronically in PDF format via the EasyChair system through the submission link.
+      
       >>
 
       Accepted contributions will be presented at the workshop and included in the CEUR workshop proceedings. At least one author of each article is expected to register for the workshop and attend to present their contribution. For any enquiries, please send an email to: kgnesy2026 [at] easychair [dot] org. 
