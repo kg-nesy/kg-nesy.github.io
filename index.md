@@ -72,7 +72,7 @@ sections:
 
       >>
 
-      All submissions must be written in English and adhere to the CEUR-ART style (one column).
+      All submissions must be written in English and adhere to the CEUR-ART style (one column). Please use the following <a href="https://www.overleaf.com/read/kcrjyqvgfbmg#c32d1c" target="_blank">template</a>.
 
       >>
 
