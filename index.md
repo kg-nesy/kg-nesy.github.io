@@ -106,11 +106,11 @@ sections:
     #background_style: bg-info
     title: Important Dates
     services:
-      - title: Paper Submission <br/> (July 15th, 2026)
+      - title: Paper Submission <br/> (July 24th, 2026)
         text: Submit your paper.
         icon: bi-pencil-fill
         url: https://easychair.org/conferences2/info?a=36250136
-      - title: Notifications <br/> (Aug 15th, 2026)
+      - title: Notifications <br/> (Aug 21th, 2026)
         text: The notification and reviews from our Program Committee will be available.
         icon: bi-rocket-takeoff
       - title: Camera-ready <br/> (Aug 31st, 2026)
@@ -160,6 +160,8 @@ sections:
       <tr><td>Chris Davis Jaldi   (Wright State University, USA)              </td></tr>        
       <tr><td>Jan-Cristoph Kalo   (University of Amsterdam, The Netherlands)  </td></tr>    
       <tr><td>Majlinda Llugiqi    (WU, Austria)                               </td></tr>    
+      <tr><td>Alexander Prock     (WU, Austria)                               </td></tr>    
+      <tr><td>Diego Rincon-Yanez  (WU, Austria)                               </td></tr>    
       <tr><td>Rita T. Sousa       (University of Mannheim, Germany)           </td></tr>        
       <tr><td>Lionel Tailhardat   (Orange, France)                            </td></tr>        
       <tr><td>Marta Sabou         (WU, Austria)                               </td></tr>       
@@ -195,5 +197,13 @@ sections:
         url: https://airov.at/2024/workshop/KG-NeSy 
         text: >-
           Co-located with The First Austrian Symposium on AI, Robotics, and Vision <br/> AIROV 2024 (Innsbruck, Austria)
+
+  - type: sponsor.html
+    section_id: sponsor
+    title: Supported by
+    # background_style: bg-dark text-primary
+    members:
+      - image: https://www.sba-research.org/wp-content/themes/sba-research-theme/assets/images/logo.svg
+        url: 'https://www.sba-research.org/'
 
 ---

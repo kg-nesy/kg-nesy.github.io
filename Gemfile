@@ -1,6 +1,8 @@
 source "https://rubygems.org"
 
-gem "github-pages", "~> 227", group: :jekyll_plugins
+gem "csv"
+
+gem "jekyll", "~> 4.3"
 gem "webrick", "~> 1.8"
 
 group :jekyll_plugins do
@@ -8,3 +10,7 @@ group :jekyll_plugins do
  gem "jekyll-seo-tag", "~> 2.8.0"
 end
 
+
+gem "base64", "~> 0.3.0"
+
+gem "bigdecimal", "~> 4.0"
