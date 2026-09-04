@@ -11,6 +11,31 @@ header:
 
 
 sections:
+
+  - type: contact.html
+    section_id: program
+    background_style: text-primary
+    title: Workshop Program
+    text: >+
+      We are pleased to announce that Alessandro Oltramari (Bosch Center of Artificial Intelligence & Carnegie Bosch Institute, USA) will become our Keynote speaker at the Workshop!
+      <br><br>
+
+      Full program details will be announced closer to the workshop date.
+
+      <table div class="table"><tbody>
+      <tr><td>09:00 - 09:20</td><td>Workshop Opening</td></tr>
+      <tr><td>09:20 - 10:40</td><td>Paper Session 1: TBD</td></tr>
+      <tr><td>10:40 - 11:10</td><td>Coffee Break</td></tr>
+      <tr><td>11:10 - 12:50</td><td>Paper Session 2: TBD</td></tr>
+      <tr><td>12:50 - 14:10</td><td>Lunch Break</td></tr>
+      <tr><td>14:10 - 15:10</td><td>Keynote Talk</td></tr>
+      <tr><td>15:10 - 15:50</td><td>Paper Session 3: TBD</td></tr>
+      <tr><td>15:50 - 16:20</td><td>Coffee Break</td></tr>
+      <tr><td>16:20 - 17:40</td><td>Paper Session 4: TBD</td></tr>
+      <tr><td>17:40 - 18:00</td><td>Closing Remarks</td></tr>
+      </tbody></table>
+
+
   - type: call-to-action.html
     section_id: about
     background_style: bg-dark text-primary
@@ -88,10 +113,10 @@ sections:
       
       <br/><br/>
 
-    actions:
-      - title: Submit your Paper!
-        url: https://easychair.org/conferences/?conf=kgnesy2026
-        class: btn-light
+    # actions:
+    #   - title: Submit your Paper!
+    #     url: https://easychair.org/conferences/?conf=kgnesy2026
+    #     class: btn-light
 
 # sections:
   # - type: submission.html
@@ -113,14 +138,14 @@ sections:
       - title: Notifications <br/> (Aug 21th, 2026)
         text: The notification and reviews from our Program Committee will be available.
         icon: bi-rocket-takeoff
-      - title: Camera-ready <br/> (Aug 31st, 2026)
+      - title: Camera-ready <br/> (Sep 7th, 2026)
         text: Time to have your paper ready for being published. All the accepted paper will be published in the proceedings.
         icon: bi-camera-fill
-      - title: Workshop <br/> (Oct 25/26th, 2026)
+      - title: Workshop <br/> (Oct 25th, 2026)
         text: Keynote, papers presentations, and discussion! 
         icon: bi-people-fill
 
-
+        
   - type: members.html
     section_id: members
     title: Workshop Organizers
@@ -152,19 +177,26 @@ sections:
     title: Program Committee
     text: 
       <table div class="table"><tbody>
-      <tr><td>Medina Andresel     (Austrian Institute of Technology, Austria) </td></tr>        
-      <tr><td>Adrita Barua        (Kansas State University, USA)              </td></tr>                  
-      <tr><td>Antrea Christou     (Wright State University, USA)              </td></tr>    
-      <tr><td>Fariz Darari        (University of Indonesia, Indonesia)        </td></tr>    
-      <tr><td>Andreea Iana        (Uni Mannheim, Germany)                     </td></tr>    
-      <tr><td>Chris Davis Jaldi   (Wright State University, USA)              </td></tr>        
-      <tr><td>Jan-Cristoph Kalo   (University of Amsterdam, The Netherlands)  </td></tr>    
-      <tr><td>Majlinda Llugiqi    (WU, Austria)                               </td></tr>    
-      <tr><td>Alexander Prock     (WU, Austria)                               </td></tr>    
-      <tr><td>Diego Rincon-Yanez  (WU, Austria)                               </td></tr>    
-      <tr><td>Rita T. Sousa       (University of Mannheim, Germany)           </td></tr>        
-      <tr><td>Lionel Tailhardat   (Orange, France)                            </td></tr>        
-      <tr><td>Marta Sabou         (WU, Austria)                               </td></tr>       
+      <tr><td>Adrita Barua        (Kansas State University, USA)              </td></tr>
+      <tr><td>Alexander Prock     (WU, Austria)                               </td></tr>
+      <tr><td>Andreea Iana        (University of Mannheim, Germany)           </td></tr>
+      <tr><td>Antrea Christou     (Wright State University, USA)              </td></tr>
+      <tr><td>Chris Davis Jaldi   (Wright State University, USA)              </td></tr>
+      <tr><td>Diego Rincon-Yanez  (WU, Austria)                               </td></tr>
+      <tr><td>Fariz Darari        (University of Indonesia, Indonesia)        </td></tr>
+      <tr><td>Ioan Toma           (Onlim GmbH, Austria)                       </td></tr>
+      <tr><td>Jan-Cristoph Kalo   (University of Amsterdam, The Netherlands)  </td></tr>
+      <tr><td>Ke Dong             (Kansas State University, USA)              </td></tr>
+      <tr><td>Lionel Tailhardat   (Orange, France)                            </td></tr>
+      <tr><td>Majlinda Llugiqi    (WU, Austria)                               </td></tr>
+      <tr><td>Marta Sabou         (WU, Austria)                               </td></tr>
+      <tr><td>Medina Andresel     (Austrian Institute of Technology, Austria) </td></tr>
+      <tr><td>Nelson Higuera      (TU Wien, Austria)                          </td></tr>
+      <tr><td>Rita T. Sousa       (University of Mannheim, Germany)           </td></tr>
+      <tr><td>Spencer Seals       (Wright State University, USA)              </td></tr>
+      <tr><td>Stefan Bischof      (Siemens AG Österreich, Austria)            </td></tr>
+      <tr><td>Tobias Dam          (USTP, Austria)                             </td></tr>
+      <tr><td>Tobias Geibinger    (TU Wien, Austria)                          </td></tr>
       </tbody></table>
     actions:
     # - title: +1 (202) 555-014

@@ -7,6 +7,8 @@ header:
   url: /#about
 # - title: Submission
 #   url: /#submission
+- title: Program
+  url: /#program
 - title: Important Dates
   url: /#timeline
 - title: Organization
@@ -15,3 +17,4 @@ header:
   url: /#pc_members
 - title: Previous Editions
   url: /#past_editions
+ 
