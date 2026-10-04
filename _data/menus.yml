@@ -3,12 +3,12 @@
 # However on github-pages custom plugins are disabled, and the script doesn't
 # run. So please, fill in any custom menu entry here.
 header:
-- title: Call
-  url: /#about
 # - title: Submission
 #   url: /#submission
 - title: Program
   url: /#program
+# - title: Call
+#   url: /#about
 - title: Important Dates
   url: /#timeline
 - title: Organization
