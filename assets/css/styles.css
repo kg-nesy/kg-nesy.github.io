@@ -1931,6 +1931,8 @@ progress {
   -webkit-overflow-scrolling: touch;
 }
 
+.table tr.talk td { color: #555; font-size: 0.95em; }
+
 @media (max-width: 575.98px) {
   .table-responsive-sm {
     overflow-x: auto;
